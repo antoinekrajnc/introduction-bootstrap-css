@@ -1,0 +1,10 @@
+.jumbotron {
+  background:url("https://geekymarine.files.wordpress.com/2015/10/revue-the-body-shop.png") no-repeat top;
+  background-size:cover;
+  height:500px;
+}
+
+footer {
+  background: #007bff;
+  color :white;
+}
